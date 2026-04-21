@@ -1,4 +1,5 @@
-# HEU KMS Activator 简介
+# HEU_KMS_Activator：免费 Windows/Office 激活工具，一键快速激活，纯净无捆绑
+## HEU KMS Activator 简介
 说白了，就是电脑上最常用、最好用的 Windows 和 Office 激活工具，完全免费，小白也能轻松上手。
 ## 软件特点
 **专治各种未激活**：你的 Win7/Win10/Win11 系统、Office 2016/2019/2021/365 老是弹出 “请激活”，用它一键搞定。
